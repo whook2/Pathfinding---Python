@@ -1,4 +1,4 @@
-# Python: Pathfinding
+# Python: Pathfinding SPRING 2024
 This program implements the A* pathfinding algorithm and uses it to find paths in a pathfinding graph via file input. The program receives two text files, one with nodes, and the other with connections, and stores those elements into a data structure. The program then interprets points on the graph with their respective weight values, and determines the cheapest path from a given start node to end node via the A* algorithm. These start and end nodes are hardcoded into the program. Once the program executes, an output file is generated containing all the node and connection information, the generated paths, and their respective total costs.
 ## The A* pathfinding algorithm was sourced via pseudocode from the textbook "Artificial Intelligence for Games, Third Edition", by Ian Millington
 
